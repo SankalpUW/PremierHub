@@ -18,7 +18,11 @@
         },
         {
             "cover": "/teams/Brighton.png", 
-            "title": "Brighton"
+            "title": "Brighton-and-Hove-Albion"
+        },
+        {
+            "cover": "/teams/Burnley.png", 
+            "title": "Burnley"
         },
         {
             "cover": "/teams/Chelsea.png", 
@@ -37,16 +41,12 @@
             "title": "Fulham"
         },
         {
-            "cover": "/teams/LeedsUnited.png", 
-            "title": "Leeds-United"
-        },
-        {
-            "cover": "/teams/LeicesterCity.png", 
-            "title": "Leicester-City"
-        },
-        {
             "cover": "/teams/Liverpool.png", 
             "title": "Liverpool"
+        },
+        {
+            "cover": "/teams/Luton.png", 
+            "title": "Luton-Town"
         },
         {
             "cover": "/teams/ManchesterCity.png", 
@@ -58,27 +58,27 @@
         },
         {
             "cover": "/teams/Newcastle.png", 
-            "title": "Newcastle"
+            "title": "Newcastle-United"
         },
         {
             "cover": "/teams/NottinghamForest.png", 
             "title": "Nottingham-Forest"
         },
         {
-            "cover": "/teams/Southampton.png", 
-            "title": "Southampton"
+            "cover": "/teams/Sheffield.png", 
+            "title": "Sheffield-United"
         },
         {
             "cover": "/teams/Tottenham.png", 
-            "title": "Tottenham"
+            "title": "Tottenham-Hotspur"
         },
         {
             "cover": "/teams/WestHam.png", 
-            "title": "West-Ham"
+            "title": "West-Ham-United"
         },
         {
             "cover": "/teams/Wolves.png", 
-            "title": "Wolves"
+            "title": "Wolverhampton-Wanderers"
         }
     ]
 }
